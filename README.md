@@ -1,4 +1,4 @@
-<img width="369" height="545" alt="image" src="https://github.com/user-attachments/assets/7d12d64b-b2c4-4bb8-b19b-bef362685e9e" /># Design and development of the "Shoe Store" database
+## Design and development of the "Shoe Store" database
 
 This project represents the development of a relational database and management application for a shoe store. The database is designed to store and manage information about products, customers, suppliers, sales, and other store processes.
 
