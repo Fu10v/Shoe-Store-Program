@@ -1,4 +1,4 @@
-## Design and development of the "Shoe Store" database
+# Design and development of the "Shoe Store" database
 
 This project represents the development of a relational database and management application for a shoe store. The database is designed to store and manage information about products, customers, suppliers, sales, and other store processes.
 
@@ -41,7 +41,7 @@ The database is designed according to the ER model and normalized to 3NF to elim
 Author: Petro Luchaninov
 Email: luchaninovp5@gmail.com
 
-## Screenshots
+## Preview
 
 <img width="369" height="545" alt="image" src="https://github.com/user-attachments/assets/80bd54d3-2c49-4a12-b9b5-be69e1162cfe" />
 <img width="1063" height="599" alt="image" src="https://github.com/user-attachments/assets/48c7d63e-6d58-4233-849f-5b08419b82f9" />
